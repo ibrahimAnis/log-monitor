@@ -1,0 +1,14 @@
+ID 0, 	0, 	Start
+ID 1, 	1, 	Start
+ID 0, 	2, 	End
+ID 2, 	6, 	Start
+ID 1, 	7, 	End
+ID 2, 	8, 	End
+
+* Read file line by line
+* Take a TreeMap and store the id along with the timestamp
+* Traverse through the file
+* If the id exist then calculate the time diff between endValue and initValue 
+* If it is greater than timeout then store the id in the array and remove from treemap
+*else put a pair <id,initTime>
+
