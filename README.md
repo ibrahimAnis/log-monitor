@@ -14,3 +14,6 @@ You have to implement the following:
 1. The server should be able to handle multiple clients at the same time.
 1. The web page should not stay in a loading state post the first load and it should not reload thereafter as well
 
+To get the full source code [click here](https://topmate.io/ibrahim_anis/1442526)
+
+
